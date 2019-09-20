@@ -31,7 +31,7 @@ router.post('/join/:gameID', function(req, res, next) {
 });
 
 router.post('game', function(req, res, next) {
-    // create game
+    // create game, using config
     // return gameID
 });
 
